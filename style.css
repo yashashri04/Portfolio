@@ -71,6 +71,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     align-items: center;
+    
 }
 
 .content{
@@ -267,3 +268,6 @@
             font-size: 1.7rem;
          }  
     }
+
+
+   
